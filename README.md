@@ -1,4 +1,3 @@
-Head
 /* max-width 992px */
 @media (max-width: 992px) {
     .padding{ padding: 60px 0; }
