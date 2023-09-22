@@ -1,0 +1,803 @@
+ <header class="header header-one">
+        <div class="top-header-one top-bar">
+            <div class="container">
+                <div class="top-bar-inner">
+                    <div class="top-left">
+                        <ul>
+                            <li>Email: <a href="mailto:info@m4dualpro.com">info@m4dualpro.com</a></li>
+                        </ul>
+                    </div>
+                    <div class="top-right">
+                        <ul class="top-social">
+                            <li><i class="fab fa-whatsapp"></i> <a href="https://wa.me//12345***" target="_blank">Chat Now... </a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div><!-- /.top-bar -->
+        <div class="primary-header-one primary-header">
+            <div class="container">
+                <div class="primary-header-inner">
+                    <div class="header-logo">
+                        <img src="images/logo.png">
+                    </div><!-- /.header-logo -->
+                    <div class="header-menu-wrap">
+                        <ul class="dl-menu">
+                            <li><a href="index.php">Home</a> </li>
+                            <li><a href="#about">About</a> </li>
+                            <li><a href="#features">Features</a> </li>
+                            <li><a href="#how_it_works">How It Works</a> </li>
+                            <li><a href="#testimonials">Testimonials</a> </li>
+                            <li><a href="#pricing">Pricing</a> </li>
+                            <li><a href="#contact">Contact Us</a></li>
+                        </ul>
+                    </div><!-- /.header-menu-wrap -->
+                    <div class="header-right">
+                        <a class="header-btn" href="register.php">Get Started<span style="top: 43.8125px; left: 220.328px;"></span></a>
+                        <!-- Burger menu -->
+                        <div class="mobile-menu-icon">
+                            <div class="burger-menu">
+                                <div class="line-menu line-half first-line"></div>
+                                <div class="line-menu"></div>
+                                <div class="line-menu line-half last-line"></div>
+                            </div>
+                        </div>
+                    </div><!-- /.header-right -->
+                </div><!-- /.primary-header-one-inner -->
+            </div>
+        </div><!-- /.primary-header-one -->
+    </header><div class="sticky-header sticky-fixed-top"><div class="primary-header-one primary-header">
+            <div class="container">
+                <div class="primary-header-inner">
+                    <div class="header-logo">
+                        <img src="images/logo.png">
+                    </div><!-- /.header-logo -->
+                    <div class="header-menu-wrap">
+                        <ul class="dl-menu">
+                            <li><a href="index.php">Home</a> </li>
+                            <li><a href="#about">About</a> </li>
+                            <li><a href="#features">Features</a> </li>
+                            <li><a href="#how_it_works">How It Works</a> </li>
+                            <li><a href="#testimonials">Testimonials</a> </li>
+                            <li><a href="#pricing">Pricing</a> </li>
+                            <li><a href="#contact">Contact Us</a></li>
+                        </ul>
+                    </div><!-- /.header-menu-wrap -->
+                    <div class="header-right">
+                        <a class="header-btn" href="register.php">Get Started<span></span></a>
+                        <!-- Burger menu -->
+                        <div class="mobile-menu-icon">
+                            <div class="burger-menu">
+                                <div class="line-menu line-half first-line"></div>
+                                <div class="line-menu"></div>
+                                <div class="line-menu line-half last-line"></div>
+                            </div>
+                        </div>
+                    </div><!-- /.header-right -->
+                </div><!-- /.primary-header-one-inner -->
+            </div>
+        </div></div><!-- /.header-one -->
+
+    <div id="main-slider" class="main-slider slick-initialized slick-slider slick-dotted"><div class="slick-prev slick-arrow" style="display: block;"><i class="fa fa-chevron-left"></i></div>
+        <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1917px;"><div class="single-slide slick-slide" data-slick-index="0" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide00" aria-describedby="slick-slide-control00" style="width: 639px; position: relative; left: 0px; top: 0px; z-index: 998; opacity: 0; transition: opacity 500ms ease 0s;">
+            <div class="bg-img" style="background-image: url(assets/img/page-header.jpg);"></div>
+            <div class="slider-content-wrap d-flex align-items-center text-left">
+                <div class="container">
+                    <div class="slider-content">
+                        <div class="slide-caption medium">
+                            <div class="inner-layer">
+                                <div data-animation="fade-in-right" data-delay="1s" class="element" style="animation-delay: 1s;">Think In Motion</div>
+                            </div>
+                        </div>
+                        <div class="slide-caption big">
+                            <div class="inner-layer">
+                                <div data-animation="reveal-text" data-delay="1s" class="element" style="animation-delay: 1s;"><span style="animation-delay: 1s;"></span>Take Your Finances To</div>
+                            </div>
+                        </div>
+                        <div class="slide-caption big">
+                            <div class="inner-layer">
+                                <div data-animation="reveal-text" data-delay="2s" class="element" style="animation-delay: 2s;"><span style="animation-delay: 2s;"></span>The Next Level.</div>
+                            </div>
+                        </div>
+                        <div class="slide-caption small">
+                            <div class="inner-layer">
+                                <div data-animation="fade-in-bottom" data-delay="3s" class="element" style="animation-delay: 3s;">With M4dualpro, all over the place becomes all-in-one place. <br>Every part of your investment lifecycle is here.</div>
+                            </div>
+                        </div>
+                        <div class="slide-btn-group">
+                            <div class="inner-layer">
+                                <a href="login.php" class="slide-btn element" data-animation="fade-in-bottom" data-delay="3.5s" tabindex="-1" style="animation-delay: 3.5s;">Login</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><div class="single-slide slick-slide slick-current slick-active" data-slick-index="1" aria-hidden="false" tabindex="0" role="tabpanel" id="slick-slide01" aria-describedby="slick-slide-control01" style="width: 639px; position: relative; left: -639px; top: 0px; z-index: 999; opacity: 1;">
+            <div class="bg-img" style="background-image: url(assets/img/page-header.jpg);"></div>
+            <div class="slider-content-wrap d-flex align-items-center text-left">
+                <div class="container">
+                    <div class="slider-content">
+                        <div class="slide-caption medium">
+                            <div class="inner-layer">
+                                <div data-animation="fade-in-right" data-delay="1s" class="element" style="animation-delay: 1s;">Think In Investment</div>
+                            </div>
+                        </div>
+                        <div class="slide-caption big">
+                            <div class="inner-layer">
+                                <div data-animation="reveal-text" data-delay="1s" class="element" style="animation-delay: 1s;"><span style="animation-delay: 1s;"></span>Outstanding Platform with</div>
+                            </div>
+                        </div>
+                        <div class="slide-caption big">
+                            <div class="inner-layer">
+                                <div data-animation="reveal-text" data-delay="2s" class="element" style="animation-delay: 2s;"><span style="animation-delay: 2s;"></span>optimum Assistance!</div>
+                            </div>
+                        </div>
+                        <div class="slide-caption small">
+                            <div class="inner-layer">
+                                <div data-animation="fade-in-bottom" data-delay="3s" class="element" style="animation-delay: 3s;">With M4dualpro, all over the place becomes all-in-one place. <br>Every part of your investment lifecycle is here.</div>
+                            </div>
+                        </div>
+                        <div class="slide-btn-group">
+                            <div class="inner-layer">
+                            <a href="login.php" class="slide-btn element" data-animation="fade-in-bottom" data-delay="3.5s" tabindex="0" style="animation-delay: 3.5s;">Login</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><div class="single-slide slick-slide" data-slick-index="2" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide02" aria-describedby="slick-slide-control02" style="width: 639px; position: relative; left: -1278px; top: 0px; z-index: 998; opacity: 0; transition: opacity 500ms ease 0s;">
+            <div class="bg-img" style="background-image: url(assets/img/page-header.jpg);"></div>
+            <div class="slider-content-wrap d-flex align-items-center text-left">
+                <div class="container">
+                    <div class="slider-content">
+                        <div class="slide-caption medium">
+                            <div class="inner-layer">
+                                <div data-animation="fade-in-right" data-delay="1s" class="element" style="animation-delay: 1s;">Think Profitably</div>
+                            </div>
+                        </div>
+                        <div class="slide-caption big">
+                            <div class="inner-layer">
+                                <div data-animation="reveal-text" data-delay="1s" class="element" style="animation-delay: 1s;"><span style="animation-delay: 1s;"></span>Total investment Freedom</div>
+                            </div>
+                        </div>
+                        <div class="slide-caption big">
+                            <div class="inner-layer">
+                                <div data-animation="reveal-text" data-delay="2s" class="element" style="animation-delay: 2s;"><span style="animation-delay: 2s;"></span>for Everyone!</div>
+                            </div>
+                        </div>
+                        <div class="slide-caption small">
+                            <div class="inner-layer">
+                                <div data-animation="fade-in-bottom" data-delay="3s" class="element" style="animation-delay: 3s;">With M4dualpro, all over the place becomes all-in-one place. <br>Every part of your investment lifecycle is here.</div>
+                            </div>
+                        </div>
+                        <div class="slide-btn-group">
+                            <div class="inner-layer">
+                                <a href="register.php" class="slide-btn element" data-animation="fade-in-bottom" data-delay="3.5s" tabindex="-1" style="animation-delay: 3.5s;">Get Started</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div></div></div><!-- Slide 01 -->
+        <!-- Slide 02 -->
+        <!-- Slide 03 -->
+    <div class="slick-next slick-arrow" style="display: block;"><i class="fa fa-chevron-right"></i></div><ul class="slick-dots" style="display: block;" role="tablist"><li class="" role="presentation"><button type="button" role="tab" id="slick-slide-control00" aria-controls="slick-slide00" aria-label="1 of 3" tabindex="-1">1</button></li><li role="presentation" class="slick-active"><button type="button" role="tab" id="slick-slide-control01" aria-controls="slick-slide01" aria-label="2 of 3" tabindex="0" aria-selected="true">2</button></li><li role="presentation" class=""><button type="button" role="tab" id="slick-slide-control02" aria-controls="slick-slide02" aria-label="3 of 3" tabindex="-1">3</button></li></ul></div>
+    <!--/. slider-section -->
+
+    <section class="about-section bd-bottom padding" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeInLeft;">
+                    <div class="section-heading">
+                        <h2>Developing the Powerful <br> Brands and Identities!</h2>
+                        <p>M4dualpro a trusted agency for providing individuals with optimum investment results that are much more profitable. M4dualpro truely stands in info of financial freedom.</p>
+                    </div>
+                    <ul class="list-feature">
+                        <li class="wow fadeInLeft" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeInLeft;">
+                            <i class="dl dl-stats"></i>
+                            <div class="list-feature-content">
+                                <h3>Investment Growth</h3>
+                                <p>Our financial experts info or help you to to find out which way you can raise your funds more.</p>
+                            </div>
+                        </li>
+                        <li class="wow fadeInLeft" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeInLeft;">
+                            <i class="dl dl-analysis-1"></i>
+                            <div class="list-feature-content">
+                                <h3>Profitability Factor</h3>
+                                <p>We have carefully compiled some digital assets that we now for sure will make our users much more profitable.</p>
+                            </div>
+                        </li>
+                    </ul>
+                    <div class="btn-wrap">
+                        <a href="login.html" class="default-btn">Explore Now</a>
+                    </div>
+                </div>
+                <div class="col-md-6 wow fadeInRight" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeInRight;">
+                    <div class="about-bg-holder">
+                        <div class="bg-back wow fadeInDown" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeInDown;"></div>
+                        <div class="bg-front wow fadeInUp" data-wow-delay="500ms" style="visibility: visible; animation-delay: 500ms; animation-name: fadeInUp;"></div>
+                        <div class="dot-pattern"></div>
+                        <a class="play-btn venobox vbox-item" data-vbtype="video" href="https://www.youtube.com/watch?v=bBC-nXj3Ng4">
+                            <span class="play-icon"><svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.com/2000/svg" viewBox="0 0 448 512">
+                                    <path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path>
+                                </svg></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div style="padding: 30px; display:block;">
+
+        </div>
+
+        <div class="container">
+		<div class="row">
+			<div class="col-md-6">
+
+				<h1 class="mb-4 text-center text-md-left">Online trading with regulated Forex &amp; CFD Broker</h1>
+
+				<p>M4dualpro offers forex and CFD contracts with honor winning exchanges, tight spreads, quality executions, and 24-hour live support. M4dualpro is one of the most reliable investment broker and one of the leaders in the Forex showcase that joins dealers everywhere throughout the world. M4dualpro gives its customers an excellent administration and security, which is significant nowadays, especially when you are working with an online CFD broker. We offer multi-utilitarian Metatrader platform, instruction and a tremendous assortment of trading assets.</p>
+
+
+
+				<p class="mb-3">After you open an account in our organization, you can download the exchanging terminal, check the statements and open your trades. We offer stages of exchange for both for PC and cell phones. It will make your Forex trading as helpful as it can be. M4dualpro regulated forex broker, which also allows clients to make online CFD trading comfortably right from home.</p><img src="images/seo-img11.jpg" alt="img" class="d-none d-md-block mt-3 fr-fic fr-dii"></div>
+			<div class="col-md-6"><img src="images/seo-img22.jpg" alt="img" class="d-none d-md-block mb-4 fr-fic fr-dii">
+			<h3> Certificate of Incorporation of a Private Limited Company </h3>
+
+				<p>The Registrar of Companies for England and Wales, hereby certifies that M4dualpro.</p>
+
+				<h3> M4dualpro </h3>
+
+				<p>is this day incorporated under the Companies Act 2006 as a private company, that the company is limited by shared, and the situation on its registered office is in England and Wales.</p>
+				<h3> Company Number: 23849923 </h3>
+
+				<p>A great foreign exchange broker is M4dualpro, we have excellent trading conditions, as well as instant execution of transactions and quick payments in the way that is convenient for you.</p>
+				<br>
+				<a href="document.pdf"> 
+				<button type="button" class="btn btn-primary">View Certificate</button>
+				</a>
+				
+
+			</div>
+        </div>
+    </div>
+    </section>
+    <!--/. about-section -->
+
+    <section class="service-section bg-grey bd-bottom padding" id="features">
+        <div class="container">
+            <div class="section-heading mb-40 text-center wow fadeInUp" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeInUp;">
+                <h4><span></span>What We Do <span></span></h4>
+                <h2>Get Exceptional Services</h2>
+                <p>Financial experts info or help you to to find out which <br> way you can grow you investments.</p>
+            </div>
+            <div class="row service-items">
+                <div class="col-lg-3 col-sm-6 sm-padding wow fadeInUp" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeInUp;">
+                    <div class="service-item">
+                        <div class="service-icon"><i class="dl dl-presentation"></i></div>
+                        <h3>Safe &amp; Secure</h3>
+                        <p>This platform is built and maintained with maximum security in order to retain the ability to keep the trust of it's users.</p>
+                        <a href="login.php" class="read-more">Get Started<i class="las la-long-arrow-alt-right"></i></a>
+                        <div class="dir-overlay" style="display: block; left: 0px; top: 100%; transition: all 300ms ease 0s;"></div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 sm-padding wow fadeInUp" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms; animation-name: fadeInUp;">
+                    <div class="service-item">
+                        <div class="service-icon"><i class="dl dl-stats"></i></div>
+                        <h3>Profitable Assets</h3>
+                        <p>All assets enlisted on this platform have been tested and found to be really profitable to make any sort of investment on.</p>
+                        <a href="login.html" class="read-more">Get Started<i class="las la-long-arrow-alt-right"></i></a>
+                        <div class="dir-overlay"></div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 sm-padding wow fadeInUp" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeInUp;">
+                    <div class="service-item">
+                        <div class="service-icon"><i class="dl dl-success"></i></div>
+                        <h3>Secure Wallet</h3>
+                        <p>Each user's wallet is safe and secured, as all asset, funds are stored in a secured offline storage system.</p>
+                        <a href="login.html" class="read-more">Get Started<i class="las la-long-arrow-alt-right"></i></a>
+                        <div class="dir-overlay" style="display: block; left: 0px; top: 100%; transition: all 300ms ease 0s;"></div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 sm-padding wow fadeInUp" data-wow-delay="500ms" style="visibility: visible; animation-delay: 500ms; animation-name: fadeInUp;">
+                    <div class="service-item">
+                        <div class="service-icon"><i class="dl dl-dollar"></i></div>
+                        <h3>Instant Withdrawals</h3>
+                        <p>Choose the amount to withdraw and receive it instantly, to your preferred crypto wallet in your account, instantly.</p>
+                        <a href="login.html" class="read-more">Get Started<i class="las la-long-arrow-alt-right"></i></a>
+                        <div class="dir-overlay"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--/. service-section -->
+
+    <section class="project-section bd-bottom padding" id="how_it_works">
+        <div class="container">
+            <div class="section-heading-wrap row mb-40">
+                <div class="col-md-6">
+                    <div class="section-heading">
+                        <h4>Getting Started... <span></span></h4>
+                        <h2>How it Works!</h2>
+                        <p>We all have to start somewhere. Let us help get you on the right track <br class="d-none d-lg-block"> as you start your investing journey. With this innovative platform you'll be ready to start in no time.</p>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <p>The fund is started in literally several minutes with <br> minimal costs using blockchain-based infrastructure that infos. We believe it is incredibly important to redistribute this power &amp; profitability.</p>
+                    <a href="#pricing" class="default-btn">View Membership Plans</a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-sm-6 sm-padding wow fadeInUp" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeInUp;">
+                    <div class="promo-item">
+                        <h4>Registration</h4>
+                        <h3><span>01</span>Create an Account.</h3>
+                        <p>
+                            Getting started with us is really easy. Fill in the requested fields regarding your personal information and trading expertise to complete Client Area registration.
+                        </p>
+                        <a href="login.html" class="read-more">Get Started<i class="las la-long-arrow-alt-right"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 sm-padding wow fadeInUp" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms; animation-name: fadeInUp;">
+                    <div class="promo-item">
+                        <h4>Investment</h4>
+                        <h3>
+                            <span>02</span>Purchase your first asset
+                        </h3>
+                        <p>
+                            You have an unlimited access to our wide range of profitable assets to investon. Once your contract is started, your earnings will automatically be credited to you wallet.
+                        </p>
+                        <a href="login.html" class="read-more">Get Started<i class="las la-long-arrow-alt-right"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 sm-padding wow fadeInUp" data-wow-delay="500ms" style="visibility: visible; animation-delay: 500ms; animation-name: fadeInUp;">
+                    <div class="promo-item">
+                        <h4>Withdrawal</h4>
+                        <h3><span>03</span>Make withdrawal request.</h3>
+                        <p>
+                            Once earnings has been collected or claimed, you can confidently head straight for the withdrawal section to withdraw your funds. Funds are immediately sent to your wallet address.
+                        </p>
+                        <a href="login.html" class="read-more">Get Started<i class="las la-long-arrow-alt-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--/. project-section -->
+
+    <section class="counter-section padding">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="section-heading text-center">
+                <h4 class="wow fadeInUp" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeInUp;">Take Your Website to Next Level!</h4>
+                <h2 class="wow fadeInUp" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms; animation-name: fadeInUp;">Innovative It Helping All <br> Over the World!</h2>
+                <p class="wow fadeInUp" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeInUp;">Financial experts info or help you to to find out which <br> way you can raise your funds more.</p>
+                <a href="mailto:info@m4dualpro.com" class="default-btn wow fadeInUp" data-wow-delay="500ms" style="visibility: visible; animation-delay: 500ms; animation-name: fadeInUp;">Request Consultation</a>
+            </div>
+            <div class="row counter-wrap mb-70">
+                <div class="col-lg-3 col-sm-6 bd-right">
+                    <div class="counter-item">
+                        <div class="counter-content">
+                            <div class="counter-icon"><i class="dl dl-startup"></i></div>
+                            <h3> 100k </h3>
+                            <h4>Active Investors</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 bd-right">
+                    <div class="counter-item">
+                        <div class="counter-content">
+                            <div class="counter-icon"><i class="dl dl-presentation"></i></div>
+                            <h3>250k</h3>
+                            <h4>Happy Customers</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 bd-right">
+                    <div class="counter-item">
+                        <div class="counter-content">
+                            <div class="counter-icon"><i class="dl dl-timer"></i></div>
+                            <h3>2019</h3>
+                            <h4> Running Since </h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="counter-item">
+                        <div class="counter-content">
+                            <div class="counter-icon"><i class="dl dl-success"></i></div>
+                            <h3>900k+</h3>
+                            <h4>Withdrawals</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--/. counter-section-->
+
+    <section class="testimonial-section bg-grey padding" id="testimonials">
+        <div class="map"></div>
+        <div class="container">
+            <div class="section-heading mb-40 text-center wow fadeInUp" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeInUp;">
+                <h4>Testimonials</h4>
+                <h2>Words From Clients</h2>
+                <p>Financial experts info or help you to to find out which <br> way you can raise your funds more.</p>
+            </div>
+            <div class="slider testimonials-carousel nav-style carousel-dots slick-initialized slick-slider slick-dotted">
+            
+            
+
+                      
+
+                    
+                    
+            <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 255px; transform: translate3d(0px, 0px, 0px);"><div class="testi-item slick-slide slick-current slick-active" style="width: 235px;" tabindex="0" role="tabpanel" id="slick-slide10" aria-describedby="slick-slide-control10" data-slick-index="0" aria-hidden="false">
+                        <div class="review">
+                            <p>This has been a life changing opportunity for me…..so glad I came across this ??</p>
+                        </div>
+                        <div class="testi-meta">
+                            <img src="principal/testimony-images/1506." alt="thumb">
+                            <div class="testi-content">
+                                <h3> Cherly Correta </h3>
+                                <h4>United State</h4>
+                            </div>
+                        </div>
+                    </div></div></div><ul class="slick-dots" role="tablist"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control10" aria-controls="slick-slide10" aria-label="1 of 1" tabindex="0" aria-selected="true">1</button></li></ul></div>
+        </div>
+    </section>
+    <!--/. testimonials-section -->
+
+    <section class="cta-section bg-grey">
+        <div class="container">
+            <div class="row cta-wrap">
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeInLeft;">
+                    <div class="cta-content">
+                        <h2>Innovative Platform Helping All Over the Globe!</h2>
+                        <p>Our vision is to make M4dualpro the most successful international network for professional investment on digital assets. We work relentlessly to make the world of investing much more trusted and secure...</p>
+                        <a href="#contact" class="default-btn">Get Free Quote</a>
+                    </div>
+                </div>
+                <div class="cta-img d-none d-md-block"></div>
+            </div>
+        </div>
+    </section>
+    <!--/. cta-section -->
+
+    <section class="pricing-section padding" id="pricing">
+        <div class="container">
+            <div class="section-heading mb-40 text-center wow fadeInUp" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeInUp;">
+                <h4><span></span>Pricing <span></span></h4>
+                <h2>Our Membership PLans</h2>
+            </div>
+            <div class="row pricing-wrap">
+                <div class="col-lg-4 col-sm-6 sm-padding">
+                    <div class="cd-popular">
+                        <div data-type="monthly" class="is-visible pricing-box">
+                            <div class="pricing-head">
+                                <h4>Starter</h4>
+                                <h3>$500+</h3>
+                                <img src="assets/img/elements/busy-marketing.svg" alt="icon">
+                            </div>
+                            <ul class="pricing-list">
+
+                                
+                                <li>Gift Bonus:$50</li>
+                                <li>Minimum Return:$7,000</li>
+                                <li>Maximum Return:$500,000</li>
+                                <li>Account Backup</li>
+                            </ul>
+                            <div class="pricing-footer">
+                                <a class="default-btn" href="register.php">Explore Now<span></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 sm-padding">
+                    <div data-type="monthly" class="is-visible pricing-box">
+                        <div class="pricing-head">
+                        <h4>Vip</h4>
+                        <h3>$2,000+</h3>
+                            <img src="assets/img/elements/revenue.svg" alt="icon">
+                        </div>
+                        <ul class="pricing-list">
+                        <li>Gift Bonus:$100</li>
+                                <li>Minimum Return:$45,000</li>
+                                <li>Maximum Return:$100,000</li>
+                                <li>Account Backup</li>
+                        </ul>
+                        <div class="pricing-footer">
+                            <a class="default-btn" href="register.php">Explore Now<span></span></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 sm-padding">
+                    <div data-type="yearly" class="is-hidden pricing-box">
+                        <div class="pricing-head">
+                        <h4>Gold</h4>
+                        <h3>$20,000+</h3>
+                            <img src="assets/img/elements/project-manager.svg" alt="icon">
+                        </div>
+                        <ul class="pricing-list">
+                        <li>Gift Bonus:$3,000</li>
+                                <li>Minimum Return:$120,000</li>
+                                <li>Maximum Return:$200,000</li>
+                                <li>Account Backup</li>
+                        </ul>
+                        <div class="pricing-footer">
+                            <a class="default-btn" href="register.php">Explore Now<span></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--/. pricing-section -->
+
+    <section class="sponsor-section custom-padding">
+        <div class="container">
+            <div class="slider sponsor-carousel nav-style slick-initialized slick-slider"><i class="las la-arrow-left left slick-arrow" style="display: block;"></i>
+                
+                
+                
+                
+                
+                
+                
+            <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2304px; transform: translate3d(-1280px, 0px, 0px); transition: transform 300ms ease 0s;"><div class="sponsor-item slick-slide slick-cloned" style="width: 128px;" tabindex="-1" data-slick-index="-4" aria-hidden="true">
+                    <div class="sponsor-img"><img src="assets/img/sponsor-4.png" alt="sponsor"></div>
+                    <div class="sponsor-hover"><img src="assets/img/sponsor-4.png" alt="sponsor"></div>
+                </div><div class="sponsor-item slick-slide slick-cloned" style="width: 128px;" tabindex="-1" data-slick-index="-3" aria-hidden="true">
+                    <div class="sponsor-img"><img src="assets/img/sponsor-5.png" alt="sponsor"></div>
+                    <div class="sponsor-hover"><img src="assets/img/sponsor-5.png" alt="sponsor"></div>
+                </div><div class="sponsor-item slick-slide slick-cloned" style="width: 128px;" tabindex="-1" data-slick-index="-2" aria-hidden="true">
+                    <div class="sponsor-img"><img src="assets/img/sponsor-6.png" alt="sponsor"></div>
+                    <div class="sponsor-hover"><img src="assets/img/sponsor-6.png" alt="sponsor"></div>
+                </div><div class="sponsor-item slick-slide slick-cloned" style="width: 128px;" tabindex="-1" data-slick-index="-1" aria-hidden="true">
+                    <div class="sponsor-img"><img src="assets/img/sponsor-4.png" alt="sponsor"></div>
+                    <div class="sponsor-hover"><img src="assets/img/sponsor-4.png" alt="sponsor"></div>
+                </div><div class="sponsor-item slick-slide" style="width: 128px;" tabindex="-1" data-slick-index="0" aria-hidden="true">
+                    <div class="sponsor-img"><img src="assets/img/sponsor-1.png" alt="sponsor"></div>
+                    <div class="sponsor-hover"><img src="assets/img/sponsor-1.png" alt="sponsor"></div>
+                </div><div class="sponsor-item slick-slide" style="width: 128px;" tabindex="-1" data-slick-index="1" aria-hidden="true">
+                    <div class="sponsor-img"><img src="assets/img/sponsor-2.png" alt="sponsor"></div>
+                    <div class="sponsor-hover"><img src="assets/img/sponsor-2.png" alt="sponsor"></div>
+                </div><div class="sponsor-item slick-slide" style="width: 128px;" tabindex="-1" data-slick-index="2" aria-hidden="true">
+                    <div class="sponsor-img"><img src="assets/img/sponsor-3.png" alt="sponsor"></div>
+                    <div class="sponsor-hover"><img src="assets/img/sponsor-3.png" alt="sponsor"></div>
+                </div><div class="sponsor-item slick-slide" style="width: 128px;" tabindex="-1" data-slick-index="3" aria-hidden="true">
+                    <div class="sponsor-img"><img src="assets/img/sponsor-4.png" alt="sponsor"></div>
+                    <div class="sponsor-hover"><img src="assets/img/sponsor-4.png" alt="sponsor"></div>
+                </div><div class="sponsor-item slick-slide" style="width: 128px;" tabindex="-1" data-slick-index="4" aria-hidden="true">
+                    <div class="sponsor-img"><img src="assets/img/sponsor-5.png" alt="sponsor"></div>
+                    <div class="sponsor-hover"><img src="assets/img/sponsor-5.png" alt="sponsor"></div>
+                </div><div class="sponsor-item slick-slide" style="width: 128px;" tabindex="0" data-slick-index="5" aria-hidden="true">
+                    <div class="sponsor-img"><img src="assets/img/sponsor-6.png" alt="sponsor"></div>
+                    <div class="sponsor-hover"><img src="assets/img/sponsor-6.png" alt="sponsor"></div>
+                </div><div class="sponsor-item slick-slide slick-current slick-active" style="width: 128px;" tabindex="0" data-slick-index="6" aria-hidden="false">
+                    <div class="sponsor-img"><img src="assets/img/sponsor-4.png" alt="sponsor"></div>
+                    <div class="sponsor-hover"><img src="assets/img/sponsor-4.png" alt="sponsor"></div>
+                </div><div class="sponsor-item slick-slide slick-cloned slick-active" style="width: 128px;" tabindex="-1" data-slick-index="7" aria-hidden="false">
+                    <div class="sponsor-img"><img src="assets/img/sponsor-1.png" alt="sponsor"></div>
+                    <div class="sponsor-hover"><img src="assets/img/sponsor-1.png" alt="sponsor"></div>
+                </div><div class="sponsor-item slick-slide slick-cloned slick-active" style="width: 128px;" tabindex="-1" data-slick-index="8" aria-hidden="false">
+                    <div class="sponsor-img"><img src="assets/img/sponsor-2.png" alt="sponsor"></div>
+                    <div class="sponsor-hover"><img src="assets/img/sponsor-2.png" alt="sponsor"></div>
+                </div><div class="sponsor-item slick-slide slick-cloned slick-active" style="width: 128px;" tabindex="-1" data-slick-index="9" aria-hidden="false">
+                    <div class="sponsor-img"><img src="assets/img/sponsor-3.png" alt="sponsor"></div>
+                    <div class="sponsor-hover"><img src="assets/img/sponsor-3.png" alt="sponsor"></div>
+                </div><div class="sponsor-item slick-slide slick-cloned" style="width: 128px;" tabindex="-1" data-slick-index="10" aria-hidden="true">
+                    <div class="sponsor-img"><img src="assets/img/sponsor-4.png" alt="sponsor"></div>
+                    <div class="sponsor-hover"><img src="assets/img/sponsor-4.png" alt="sponsor"></div>
+                </div><div class="sponsor-item slick-slide slick-cloned" style="width: 128px;" tabindex="-1" data-slick-index="11" aria-hidden="true">
+                    <div class="sponsor-img"><img src="assets/img/sponsor-5.png" alt="sponsor"></div>
+                    <div class="sponsor-hover"><img src="assets/img/sponsor-5.png" alt="sponsor"></div>
+                </div><div class="sponsor-item slick-slide slick-cloned" style="width: 128px;" tabindex="-1" data-slick-index="12" aria-hidden="true">
+                    <div class="sponsor-img"><img src="assets/img/sponsor-6.png" alt="sponsor"></div>
+                    <div class="sponsor-hover"><img src="assets/img/sponsor-6.png" alt="sponsor"></div>
+                </div><div class="sponsor-item slick-slide slick-cloned" style="width: 128px;" tabindex="-1" data-slick-index="13" aria-hidden="true">
+                    <div class="sponsor-img"><img src="assets/img/sponsor-4.png" alt="sponsor"></div>
+                    <div class="sponsor-hover"><img src="assets/img/sponsor-4.png" alt="sponsor"></div>
+                </div></div></div><i class="las la-arrow-right right slick-arrow" style="display: block;"></i></div>
+        </div>
+    </section>
+    <!--/. sponsor-section -->
+
+
+    <!--/. footer-section -->
+    
+    <section class="footer-section info-active" id="contact">
+        <div class="footer-info">
+            <div class="container">
+                <div class="footer-info-inner">
+                    <div class="footer-info-list">
+                        <div><svg enable-background="new 0 0 512.076 512.076" version="1.1" viewBox="0 0 512.08 512.08" xml:space="preserve" xmlns="http://www.w3.com/2000/svg">
+                                <g transform="translate(-1 -1)">
+                                    <path d="m499.64 396.04-103.65-69.12c-13.153-8.701-30.784-5.838-40.508 6.579l-30.191 38.818c-3.88 5.116-10.933 6.6-16.546 3.482l-5.743-3.166c-19.038-10.377-42.726-23.296-90.453-71.04s-60.672-71.45-71.049-90.453l-3.149-5.743c-3.161-5.612-1.705-12.695 3.413-16.606l38.792-30.182c12.412-9.725 15.279-27.351 6.588-40.508l-69.12-103.65c-8.907-13.398-26.777-17.42-40.566-9.131l-43.341 26.035c-13.618 8.006-23.609 20.972-27.878 36.181-15.607 56.866-3.866 155.01 140.71 299.6 115 115 200.62 145.92 259.46 145.92 13.543 0.058 27.033-1.704 40.107-5.239 15.212-4.264 28.18-14.256 36.181-27.878l26.061-43.315c8.301-13.792 4.281-31.673-9.123-40.585zm-5.581 31.829-26.001 43.341c-5.745 9.832-15.072 17.061-26.027 20.173-52.497 14.413-144.21 2.475-283.01-136.32s-150.73-230.5-136.32-283.01c3.116-10.968 10.354-20.307 20.198-26.061l43.341-26.001c5.983-3.6 13.739-1.855 17.604 3.959l37.547 56.371 31.514 47.266c3.774 5.707 2.534 13.356-2.85 17.579l-38.801 30.182c-11.808 9.029-15.18 25.366-7.91 38.332l3.081 5.598c10.906 20.002 24.465 44.885 73.967 94.379 49.502 49.493 74.377 63.053 94.37 73.958l5.606 3.089c12.965 7.269 29.303 3.898 38.332-7.91l30.182-38.801c4.224-5.381 11.87-6.62 17.579-2.85l103.64 69.12c5.818 3.862 7.563 11.622 3.958 17.604z"></path>
+                                    <path d="m291.16 86.39c80.081 0.089 144.98 64.986 145.07 145.07 0 4.713 3.82 8.533 8.533 8.533s8.533-3.82 8.533-8.533c-0.099-89.503-72.63-162.04-162.13-162.13-4.713 0-8.533 3.82-8.533 8.533s3.82 8.533 8.533 8.533z"></path>
+                                    <path d="m291.16 137.59c51.816 0.061 93.806 42.051 93.867 93.867 0 4.713 3.821 8.533 8.533 8.533 4.713 0 8.533-3.82 8.533-8.533-0.071-61.238-49.696-110.86-110.93-110.93-4.713 0-8.533 3.82-8.533 8.533s3.82 8.533 8.533 8.533z"></path>
+                                    <path d="m291.16 188.79c23.552 0.028 42.638 19.114 42.667 42.667 0 4.713 3.821 8.533 8.533 8.533s8.533-3.82 8.533-8.533c-0.038-32.974-26.759-59.696-59.733-59.733-4.713 0-8.533 3.82-8.533 8.533s3.82 8.533 8.533 8.533z"></path>
+                                </g>
+                            </svg></div>
+                        <h3>Phone Contact <br> + +1(561)****</h3>
+                    </div>
+                    <div class="footer-info-list">
+                        <div><svg enable-background="new 0 0 511.991 511.991" version="1.1" viewBox="0 0 511.99 511.99" xml:space="preserve" xmlns="http://www.w3.com/2000/svg">
+                                <path d="m511.99 196.24c0-0.179-0.094-0.333-0.102-0.503-0.053-0.591-0.17-1.175-0.35-1.741-0.118-0.505-0.281-0.999-0.486-1.476-0.244-0.452-0.529-0.881-0.853-1.28-0.338-0.489-0.727-0.941-1.161-1.348-0.137-0.12-0.196-0.282-0.341-0.393l-82.039-63.735v-66.057c0-14.138-11.462-25.6-25.6-25.6h-92.476l-37.027-28.749c-9.149-7.128-21.972-7.128-31.121 0l-37.034 28.749h-92.476c-14.138 0-25.6 11.461-25.6 25.6v66.057l-82.031 63.735c-0.145 0.111-0.205 0.273-0.341 0.393-0.434 0.407-0.823 0.859-1.161 1.348-0.324 0.399-0.61 0.828-0.853 1.28-0.207 0.476-0.37 0.97-0.486 1.476-0.178 0.555-0.295 1.127-0.35 1.707 0 0.171-0.102 0.324-0.102 0.503v290.17c0.034 2.748 0.515 5.471 1.425 8.064-1.959 2.954-1.867 6.816 0.229 9.674s5.752 4.106 9.158 3.126c4.312 3.081 9.48 4.737 14.78 4.736h460.8c5.322-0.011 10.506-1.691 14.822-4.804 0.728 0.224 1.483 0.347 2.244 0.367 3.117 0.018 5.991-1.68 7.479-4.419s1.349-6.074-0.362-8.679c0.907-2.593 1.385-5.317 1.417-8.064v-290.13zm-261.12-177.42c2.98-2.368 7.2-2.368 10.18 0l19.686 15.283h-49.493l19.627-15.283zm-223.16 476.08 223.16-173.35c2.982-2.354 7.19-2.354 10.172 0l223.23 173.35h-456.57zm467.22-13.329-223.39-173.49c-9.143-7.118-21.952-7.118-31.095 0l-223.39 173.49v-272.34l139.84 108.59c3.726 2.889 9.088 2.211 11.977-1.515s2.211-9.088-1.515-11.977l-142.06-110.32 60.032-46.643v65.937c0 4.713 3.821 8.533 8.533 8.533 4.713 0 8.533-3.821 8.533-8.533v-153.6c0-4.713 3.82-8.533 8.533-8.533h290.13c4.713 0 8.533 3.82 8.533 8.533v153.6c0 4.713 3.82 8.533 8.533 8.533s8.533-3.821 8.533-8.533v-65.937l60.032 46.643-142.32 110.52c-3.723 2.891-4.397 8.253-1.506 11.977 2.891 3.723 8.253 4.397 11.977 1.506l140.08-108.77v272.34z"></path>
+                                <path d="m170.66 110.91h170.67c4.713 0 8.533-3.82 8.533-8.533s-3.82-8.533-8.533-8.533h-170.67c-4.713 0-8.533 3.82-8.533 8.533s3.82 8.533 8.533 8.533z"></path>
+                                <path d="m349.86 153.58c0-4.713-3.82-8.533-8.533-8.533h-170.67c-4.713 0-8.533 3.821-8.533 8.533 0 4.713 3.82 8.533 8.533 8.533h170.67c4.713 0 8.533-3.821 8.533-8.533z"></path>
+                                <path d="m349.86 204.78c0-4.713-3.82-8.533-8.533-8.533h-76.8c-4.713 0-8.533 3.82-8.533 8.533s3.82 8.533 8.533 8.533h76.8c4.713 0 8.533-3.821 8.533-8.533z"></path>
+                            </svg></div>
+                        <h3>Mail info <br> info@m4dualpro.com</h3>
+                    </div>
+                    <div class="footer-info-list">
+                        <div><svg enable-background="new 0 0 511.998 511.998" version="1.1" viewBox="0 0 512 512" xml:space="preserve" xmlns="http://www.w3.com/2000/svg">
+                                <g transform="translate(0 -1)">
+                                    <path d="m167.97 351.47c21.086 29.73 42.138 56.32 56.09 73.446 2.031 2.492 3.934 4.804 5.777 7.031h-42.103c-4.713 0-8.533 3.82-8.533 8.533s3.82 8.533 8.533 8.533h136.53c4.713 0 8.533-3.82 8.533-8.533s-3.82-8.533-8.533-8.533h-42.103c1.843-2.227 3.746-4.54 5.786-7.031 13.943-17.067 34.987-43.716 56.081-73.446 20.929-28.905 39.767-59.267 56.371-90.854 17.425-34.219 26.266-62.626 26.266-84.437 0.058-45.321-17.926-88.801-49.98-120.84-2.141-2.22-5.313-3.112-8.297-2.333s-5.316 3.107-6.099 6.09 0.104 6.156 2.321 8.3c28.852 28.844 45.039 67.985 44.988 108.78 0 19.098-8.209 44.902-24.405 76.689-16.229 30.855-34.64 60.513-55.091 88.747-20.804 29.346-41.6 55.637-55.381 72.533-4.582 5.615-8.704 10.581-12.22 14.78-1.641 1.874-4.011 2.948-6.502 2.948s-4.861-1.075-6.502-2.948c-3.516-4.198-7.637-9.165-12.22-14.78-13.781-16.887-34.577-43.179-55.381-72.533-20.451-28.234-38.862-57.892-55.091-88.747-16.213-31.787-24.405-57.591-24.405-76.689-5e-3 -61.809 36.959-117.63 93.867-141.75 38.238-16.034 81.314-16.034 119.55 0 2.808 1.19 6.037 0.793 8.472-1.044 2.435-1.836 3.705-4.832 3.332-7.859s-2.332-5.625-5.14-6.815c-86.898-36.652-187.06 4.062-223.74 90.948-8.895 21.046-13.457 43.669-13.414 66.517 0 21.811 8.841 50.219 26.266 84.48 16.602 31.573 35.441 61.921 56.368 90.812z"></path>
+                                    <path d="m256 99.151c4.713 0 8.533-3.82 8.533-8.533s-3.82-8.533-8.533-8.533c-40.71-1e-3 -75.752 28.757-83.695 68.685s13.426 79.906 51.037 95.486 80.99 2.421 103.61-31.428 18.175-78.962-10.611-107.75c-2.143-2.218-5.315-3.108-8.299-2.327-2.983 0.781-5.313 3.111-6.094 6.094-0.781 2.984 0.109 6.156 2.327 8.299 23.03 23.029 26.585 59.118 8.492 86.198s-52.796 37.608-82.885 25.146-47.185-44.444-40.833-76.387 34.385-54.95 66.953-54.951z"></path>
+                                    <path d="m508.79 470.96-52.48-93.867c-4.745-8.34-13.624-13.466-23.219-13.406h-60.817c-4.713 0-8.533 3.82-8.533 8.533s3.82 8.533 8.533 8.533h60.817c3.416-0.066 6.603 1.715 8.337 4.659l52.463 93.867c1.429 2.442 1.399 5.471-0.077 7.885-1.743 2.88-4.895 4.605-8.26 4.523h-459.09c-3.362 0.08-6.51-1.646-8.252-4.523-1.476-2.414-1.505-5.443-0.077-7.885l52.463-93.867c1.731-2.943 4.915-4.724 8.328-4.659h60.817c4.713 0 8.533-3.82 8.533-8.533s-3.82-8.533-8.533-8.533h-60.816c-9.6-0.063-18.486 5.063-23.236 13.406l-52.472 93.867c-4.375 7.728-4.274 17.208 0.265 24.841 4.782 8.128 13.551 13.071 22.98 12.954h459.09c9.426 0.114 18.192-4.828 22.972-12.954 4.539-7.634 4.64-17.113 0.264-24.841z"></path>
+                                    <path d="m418.14 406.35h-34.133c-1.685 3e-3 -3.332 0.501-4.736 1.434l-25.6 17.067c-3.921 2.616-4.979 7.915-2.364 11.836 2.616 3.921 7.915 4.979 11.836 2.364l23.424-15.633h31.573c4.713 0 8.533-3.821 8.533-8.533 0-4.715-3.82-8.535-8.533-8.535z"></path>
+                                    <path d="m366.94 466.08c0 4.713 3.82 8.533 8.533 8.533h68.267c4.713 0 8.533-3.82 8.533-8.533s-3.82-8.533-8.533-8.533h-68.267c-4.713 0-8.533 3.82-8.533 8.533z"></path>
+                                    <path d="m153.6 440.48c3.762 5e-3 7.083-2.455 8.176-6.055s-0.301-7.491-3.431-9.578l-25.6-17.067c-1.406-0.934-3.057-1.433-4.745-1.434h-34.133c-4.713 0-8.533 3.821-8.533 8.533 0 4.713 3.821 8.533 8.533 8.533h31.573l23.45 15.633c1.395 0.932 3.034 1.431 4.71 1.435z"></path>
+                                    <path d="m68.27 457.55c-4.713 0-8.533 3.82-8.533 8.533s3.82 8.533 8.533 8.533h68.267c4.713 0 8.533-3.82 8.533-8.533s-3.82-8.533-8.533-8.533h-68.267z"></path>
+                                </g>
+                            </svg></div>
+                        <h3>9628 The Fifth Avenue, New York, NY10022</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--/. footer-info -->
+        <div class="map light"></div>
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-sm-6 sm-padding">
+                        <div class="footer-widget">
+                            <a class="h2 text-white" href="index-2.html" style="font-family: 'Lobster Two', cursive;">M4dualpro</a>
+                            <p>Financial experts info or help you to to find out which way you can raise your funds more.</p>
+                            <div class="booking-wrap">
+                                <div><svg height="448pt" viewBox="0 -5 448 447" width="448pt" xmlns="http://www.w3.com/2000/svg">
+                                        <path d="m448 264.5v-264h-368v56h296c4.417969 0 8 3.582031 8 8v200zm0 0"></path>
+                                        <path d="m178.34375 338.84375c1.5-1.5 3.535156-2.34375 5.65625-2.34375h184v-264h-368v264h72c4.417969 0 8 3.582031 8 8v92.6875zm0 0"></path>
+                                    </svg></div>
+                                <div class="booking-wrap-inner">
+                                    <h3>Need Free Consultation?</h3>
+                                    <a href="https://wa.me//12345***">Chat Now...</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6 sm-padding">
+                        <div class="footer-widget link-widget">
+                            <h3>Information</h3>
+                            <ul class="widget-links">
+                                <li><i class="fas fa-square-full"></i><a href="index.php#about">About Us</a></li>
+                                <li><i class="fas fa-square-full"></i><a href="index.php#features">Our Services</a></li>
+                                <li><i class="fas fa-square-full"></i><a href="index.php#how_it_works">Getting Started</a></li>
+                                <li><i class="fas fa-square-full"></i><a href="index.php#testimonials">Testimonials</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6 sm-padding">
+                        <div class="footer-widget link-widget">
+                            <h3>Information</h3>
+                            <ul class="widget-links">
+                                <li><i class="fas fa-square-full"></i><a href="index.php#pricing">Membership Plans</a></li>
+                                <li><i class="fas fa-square-full"></i><a href="https://wa.me//12345***">Chat Now</a></li>
+                                <li><i class="fas fa-square-full"></i><a href="register.php">Get Registered</a></li>
+                                <li><i class="fas fa-square-full"></i><a href="login.php">Login</a></li>
+                                <li><i class="fas fa-square-full"></i><a href="terms.php" target="_blank">Terms &amp; Condition</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6 sm-padding">
+                        <div class="footer-widget">
+                            <h3>Newsletter Signup</h3>
+                            <p>Signup today for hints, tips and the latest news and updates.</p>
+                            <div class="subscribe-form">
+                                <form action="https://m4dualpro.com" method="post" name="subscription" onsubmit="subscribed()">
+                                    <input class="form-control" type="email" name="subscriber" placeholder="Email *">
+                                    <button type="submit" class="btn btn-outline-primary">Subscribe <i class="fas fa-paper-plane"></i></button>
+                                    <div class="clearfix"></div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="copyright-wrap">
+                    <p>© 2019 <a href="index.php" target="_blank" class="text-white">M4dualpro.com</a> All Rights Reserved.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <div class="mgm" style="display: block; opacity: 1;">
+<div class="txt" style="color:black;">Someone from <b>Spain</b> just earned  <a href="javascript:void(0);" onclick="javascript:void(0);">45000 .</a></div>
+</div>
+
+<style>
+.mgm {
+    border-radius: 7px;
+    position: fixed;
+    z-index: 90;
+    bottom: 80px;
+    right: 50px;
+    background: #fff;
+    padding: 20px 27px;
+    box-shadow: 0px 5px 13px 0px rgba(0,0,0,.3);
+}
+.mgm a {
+    font-weight: 700;
+    display: block;
+    color:#5f4df7;
+}
+.mgm a, .mgm a:active {
+    transition: all .2s ease;
+    color:#5f4df7;
+}
+</style>
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.html"></script><script type="text/javascript">
+var listCountries = ['Argentina', 'USA', 'Germany', 'France', 'Italy', 'South Korea', 'Australia', 'Norway', 'Canada', 'Argentina', 'Saudi Arabia', 'Mexico', 'Spain', 'Austria', 'Venezuela', 'South Africa', 'Sweden', 'South Korea', 'China', 'Italy', 'Germany', 'United Kingdom', 'Bahrain', 'Greece', 'Cuba', 'Bulgaria', 'Portugal', 'Austria', 'Cyprus', 'Panama', 'Asia', 'Norway', 'Netherlands', 'Switzerland', 'Belgium', 'Israel', 'Cyprus','Spain','Norway'];
+    var listPlans = ['$50000','$15000','$10000','$100000','$20000','$30000','$40000', '$60000', '$7000', '$25000', '$35000', '$5000','$7000','45000','$3500','$5000','$12500','$9500'];
+    interval = Math.floor(Math.random() * (40000 - 8000 + 1) + 8000);
+    var run = setInterval(request, interval);
+
+    function request() {
+        clearInterval(run);
+        interval = Math.floor(Math.random() * (40000 - 8000 + 1) + 8000);
+        var country = listCountries[Math.floor(Math.random() * listCountries.length)];
+        var plan = listPlans[Math.floor(Math.random() * listPlans.length)];
+        var msg = 'Someone from <b>' + country + '</b> just earned  <a href="javascript:void(0);" onclick="javascript:void(0);">' + plan + ' .</a>';
+        $(".mgm .txt").html(msg);
+        $(".mgm").stop(true).fadeIn(300);
+        window.setTimeout(function() {
+            $(".mgm").stop(true).fadeOut(300);
+        }, 6000);
+        run = setInterval(request, interval);
+    }
+</script>
+
+<script src="//code.tidio.co/iw39edfcscny4ctkal3f5kqyea5jhptv.js" async=""></script>
+    <div id="scrollup" class="show">
+        <button id="scroll-top" class="scroll-to-top"><i class="fas fa-chevron-up"></i></button>
+    </div>
+
+    <!-- jQuery Lib -->
+    <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="assets/js/vendor/popper.min.js"></script>
+    <script src="assets/js/vendor/bootstrap.min.js"></script>
+    <script src="assets/js/vendor/waypoints.min.js"></script>
+    <script src="assets/js/vendor/slick.min.js"></script>
+    <script src="assets/js/vendor/jquery.ajaxchimp.min.js"></script>
+    <script src="assets/js/vendor/odometer.min.js"></script>
+    <script src="assets/js/vendor/jquery.isotope.v3.0.2.js"></script>
+    <script src="assets/js/vendor/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/vendor/venobox.min.js"></script>
+    <script src="assets/js/vendor/jquery.hoverdir.js"></script>
+    <script src="assets/js/vendor/splitting.min.js"></script>
+    <script src="assets/js/vendor/jquery.nice-select.min.js"></script>
+    <script src="assets/js/vendor/wow.min.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script>
+        function subscribed() {
+            const subscriber = document.forms["subscription"]["subscriber"].value;
+            if (subscriber == "") {
+                alert("Please input a Value");
+                return false;
+            } else {
+                alert('You successfully subscribed to our newsletter');
+                return false;
+            }
+        }
+    </script>
+
+
+<iframe id="tidio-chat-code" title="Tidio Chat code" style="display: none;"></iframe><div id="tidio-chat"><iframe title="Tidio Chat" id="tidio-chat-iframe" style="display: block; border: none; position: fixed; inset: auto 9px 35px auto; width: 264px; height: 94px; opacity: 1; color-scheme: none; background: none transparent !important; margin: 0px; max-height: 100%; max-width: 100vw; transform: translateY(0px); transition: none 0s ease 0s !important; visibility: visible; z-index: 999999999 !important; border-radius: 47px 30px 47px 47px;"></iframe></div></body>
