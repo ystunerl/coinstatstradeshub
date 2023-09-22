@@ -5,7 +5,6 @@
     .sm-padding{ padding: 15px; }
     p br{ display: none; }
     span br{ display: none; }
-
     .default-btn{ padding: 0 30px; }
 
     .section-heading h2{
