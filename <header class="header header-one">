@@ -1,0 +1,48 @@
+        <div class="top-header-one top-bar">
+            <div class="container">
+                <div class="top-bar-inner">
+                    <div class="top-left">
+                        <ul>
+                            <li>Email: <a href="mailto:info@m4dualpro.com">info@m4dualpro.com</a></li>
+                        </ul>
+                    </div>
+                    <div class="top-right">
+                        <ul class="top-social">
+                            <li><i class="fab fa-whatsapp"></i> <a href="https://wa.me//12345***" target="_blank">Chat Now... </a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div><!-- /.top-bar -->
+        <div class="primary-header-one primary-header">
+            <div class="container">
+                <div class="primary-header-inner">
+                    <div class="header-logo">
+                        <img src="images/logo.png">
+                    </div><!-- /.header-logo -->
+                    <div class="header-menu-wrap">
+                        <ul class="dl-menu">
+                            <li><a href="index.php">Home</a> </li>
+                            <li><a href="#about">About</a> </li>
+                            <li><a href="#features">Features</a> </li>
+                            <li><a href="#how_it_works">How It Works</a> </li>
+                            <li><a href="#testimonials">Testimonials</a> </li>
+                            <li><a href="#pricing">Pricing</a> </li>
+                            <li><a href="#contact">Contact Us</a></li>
+                        </ul>
+                    </div><!-- /.header-menu-wrap -->
+                    <div class="header-right">
+                        <a class="header-btn" href="register.php">Get Started<span style="top: 43.8125px; left: 220.328px;"></span></a>
+                        <!-- Burger menu -->
+                        <div class="mobile-menu-icon">
+                            <div class="burger-menu">
+                                <div class="line-menu line-half first-line"></div>
+                                <div class="line-menu"></div>
+                                <div class="line-menu line-half last-line"></div>
+                            </div>
+                        </div>
+                    </div><!-- /.header-right -->
+                </div><!-- /.primary-header-one-inner -->
+            </div>
+        </div><!-- /.primary-header-one -->
+    </header>
