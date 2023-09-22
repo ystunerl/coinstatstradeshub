@@ -1,9 +1,4 @@
-<head></head>
-  .section-heading h2{
-        font-size: 32px;
-        line-height: 42px;
-    }
-    .section-heading p br{
+ .section-heading p br{
         display: inherit;
     }
     .contact-section .contact-form{margin-top: 0;}
