@@ -1,12 +1,5 @@
-/* max-width 992px */
-@media (max-width: 992px) {
-    .padding{ padding: 60px 0; }
-    .sm-padding{ padding: 15px; }
-    p br{ display: none; }
-    span br{ display: none; }
-    .default-btn{ padding: 0 30px; }
-
-    .section-heading h2{
+<head></head>
+  .section-heading h2{
         font-size: 32px;
         line-height: 42px;
     }
